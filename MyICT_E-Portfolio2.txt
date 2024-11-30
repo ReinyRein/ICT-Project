@@ -48,6 +48,6 @@ Comments, Suggestions, and Feedback about my Quarter 2 Portfolio:<br/>
 </table></div>
 <hr color="#03fc7b" size="6px" noshade="noshade"/><div style="border:3px dotted #e85e0e; border-style:dotted;">
 <font size="7" color="#e85e0e"> Reflection
-<p>Learning these truly made my coding experience be more fun and creative. With the introduction of XHTML, Lists, Tables, Hyperlinks, and Forms, my creativeness immediately thought of a lot og ways to use these newly acquired knowledge to their full potential.<br/> With this power comes with responsibility and that is why I am strictly following the rules and correct syntax because of the strict nature of XHTML.<br/>This quarter was truly fun and I enjoyed creating this E-Portfolio, that is all thank you and good day!</p></font>
+<p>This quarter's ICT lessons greatly expanded my knowledge about CSS. This quarter expanded my skills about designing my website. The lessons has been especially fruitful for me when learning about designing a website because I can design my website more freely than ever. </p></font>
 </div></body>
 </html>
