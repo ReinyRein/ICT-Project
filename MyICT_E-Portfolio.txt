@@ -12,6 +12,7 @@ a{text-decoration-thickness:3px;}
 
 <hr color="#03fc7b" size="6px" noshade="noshade"/><font size="6" color="#e85e0e">
 <a target="_blank" href="MyICT_E-Portfolio2"><strong><font size="7" color="#e85e0e">Quarter 2 </font></strong></a>
+<hr color="#03fc7b" size="6px" noshade="noshade"/><font size="6" color="#e85e0e">
 <font color="#e85e0e" size="6"><strong>Lists of Lessons
 <ol type="1">
 <li> Quarter 1 </li></ol><ol type="a">
